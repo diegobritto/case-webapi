@@ -10,6 +10,10 @@
 - Ativando uma virtualenv `source nome_da_virtualenv/bin/activate`  (Linux ou macOS)
 - Ativando uma virtualenv `nome_da_virtualenv/Scripts/Activate`  (Windows)
 - Execute o comando `pip install -r requirements.txt`
+- Execute o comando `.\manage.py migrate`
+- Execute o comando `.\manage.py makemigrations`
+- Execute o comando `.\manage.py runserver`
+
 
 **Funcionalidades**
 
